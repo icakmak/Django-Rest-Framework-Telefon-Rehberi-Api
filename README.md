@@ -7,3 +7,6 @@
  -Başka Birinin Eklediği Numaraları Görebilir Fakat Silme,Güncelleme Gibi işlemleri Yapamazlar.</br>
  </br>
  Api içerisinde signal işlemi kullanıldığı için kayıt işlemi gerçekleştirilen her kullanıcı için otomatik bir profil sayfası oluşturulabilir.</br>
+ </br>
+ Kullanılan eklentiler requirement.txt dosyası içinde yazmaktadır.Bunları <b>Python Kütüphanenize Pip ile install</b> etmeyi unutmayınız! </br>
+ Deneme yapmak isteyenler <b>virtualenv</b> kurmayı unutmasınlar.
